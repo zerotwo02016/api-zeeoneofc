@@ -9,20 +9,20 @@ router.get('/', (req, res) => {
 
 /*router.get('/about', (req, res) => {
     res.sendFile(__path + '/views/about.html')
-})
+})*/
 
 router.get('/config', (req, res) => {
     config = {
         status: true,
         result: {
             prefix : '/',
-            namabot: 'ZhirrrBot',
-            namaowner: 'Zhirrr',
-            instagram: 'zhirr_ajalah',
+            namabot: 'AlphaBOT',
+            namaowner: 'Zeeone',
+            instagram: 'zee.oneee',
             youtube : 'Gak Punya'
         }
     }
     res.json(config)
-})*/
+})
 
 module.exports = router
