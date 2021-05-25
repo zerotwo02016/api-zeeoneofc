@@ -1,4 +1,4 @@
-<div align="center">
+
  
 # Source Codes - Zhirrr's API
 <p align="center">
@@ -97,10 +97,12 @@ Atau
 ```js
 if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 ```
-# Cara Deploy Silahkan Tonton YouTube Saya
-<p align='center'>
-   <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
+<h1 align="center"> Cara Deploy Ada Di YouTube Saya
+<p align="center">
+  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <br>
+  
 </p>
+
 
 # Special Thanks
 - Zhirrr
