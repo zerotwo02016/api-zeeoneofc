@@ -97,12 +97,12 @@ Atau
 ```js
 if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 ```
-## Cara Deploy Silahkan Tonton YouTube Saya
+# Cara Deploy Silahkan Tonton YouTube Saya
 <p align='center'>
    <a href="https://wa.me/message/SJGWPAW7OHHXK1"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
 </p>
 
-##Special Thanks
+# Special Thanks
 - Zhirrr
 - ZefianAlfian (Makasih template nya)
 - sProDev (Makasih Kodeposnya)
