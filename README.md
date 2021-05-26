@@ -99,7 +99,7 @@ if(apikey != 'MASUKAN_NAMA_APIKEY') return res.json(loghandler.invalidKey)
 ```
 <h1 align="center"> Cara Deploy Ada Di YouTube Saya
 <p align="center">
-  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <br>
+  <a href="https://youtu.be/TyNPsf_x0qE"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <br>
   
 </p>
 
